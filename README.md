@@ -1,6 +1,9 @@
 Overview
 # Blackjack
+# About Game
 This is a python program for the game - Blackjack 21.
+Blackjack is a casino banking game. The most widely played casino banking game in the world, it uses decks of 52 cards and descends from a global family of
+casino banking games known as Twenty-One.
 
 The main goal of this project is to promote open-source, allowing anyone who wants to contribute.
 
